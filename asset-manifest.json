@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/765ghpages/static/css/main.7ecf72e2.css",
+    "main.js": "/765ghpages/static/js/main.0154632b.js",
+    "static/js/787.3e1b8c8c.chunk.js": "/765ghpages/static/js/787.3e1b8c8c.chunk.js",
+    "index.html": "/765ghpages/index.html",
+    "main.7ecf72e2.css.map": "/765ghpages/static/css/main.7ecf72e2.css.map",
+    "main.0154632b.js.map": "/765ghpages/static/js/main.0154632b.js.map",
+    "787.3e1b8c8c.chunk.js.map": "/765ghpages/static/js/787.3e1b8c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ecf72e2.css",
+    "static/js/main.0154632b.js"
+  ]
+}
